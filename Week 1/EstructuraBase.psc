@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	
+	// ZONA - DECLARACION DE VARIABLES
+	
+	// ZONA - INGRESO DE DATOS
+	
+	// ZONA- PROCESAMIENTO
+	
+	// ZONA - SALIDA DE DATOS
+	
+	
+FinAlgoritmo
