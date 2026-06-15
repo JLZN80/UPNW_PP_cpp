@@ -1,0 +1,7 @@
+El elemento del Arreglo en el DiaSemana(0) es = LUNES
+El elemento del Arreglo en el DiaSemana(1) es = MARTES
+El elemento del Arreglo en el DiaSemana(2) es = MIERCOLES
+El elemento del Arreglo en el DiaSemana(3) es = JUEVES
+El elemento del Arreglo en el DiaSemana(4) es = VIERNES
+El elemento del Arreglo en el DiaSemana(5) es = SABADO
+El elemento del Arreglo en el DiaSemana(6) es = DOMINGO

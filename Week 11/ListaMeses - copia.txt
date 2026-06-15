@@ -1,0 +1,12 @@
+El elemento del Arreglo en el Mes(0) es = ENE
+El elemento del Arreglo en el Mes(1) es = FEB
+El elemento del Arreglo en el Mes(2) es = MAR
+El elemento del Arreglo en el Mes(3) es = ABR
+El elemento del Arreglo en el Mes(4) es = MAY
+El elemento del Arreglo en el Mes(5) es = JUN
+El elemento del Arreglo en el Mes(6) es = JUL
+El elemento del Arreglo en el Mes(7) es = AGO
+El elemento del Arreglo en el Mes(8) es = SET
+El elemento del Arreglo en el Mes(9) es = OCT
+El elemento del Arreglo en el Mes(10) es = NOV
+El elemento del Arreglo en el Mes(11) es = DIC

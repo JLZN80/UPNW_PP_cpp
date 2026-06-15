@@ -1,0 +1,3 @@
+El Primero Numero Ingresado es: 23
+El Segundo Numero Ingresado es: 500
+El Tercer Numero Ingresado es: 15
