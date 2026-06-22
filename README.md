@@ -43,6 +43,8 @@ se incluyen carpetas como:
 | `Week 10/` | Manejo de archivos de texto con `fstream`: escritura, lectura y generacion de reportes simples. |
 | `Week 11/` | Lectura y procesamiento de archivos de texto para listas, dias, meses y datos externos. |
 | `Week 12/` | Carpeta reservada para material de practica de la semana 12. Actualmente no contiene archivos de codigo. |
+| `Week 13/` | Algoritmos sobre arreglos: busqueda lineal y binaria, ordenamiento burbuja y ordenamiento por seleccion aplicados a puntajes, cuentas, codigos y notas. |
+| `Week 14/` | Estructuras (`struct`) en C++: definicion, inicializacion, acceso a campos, paso a funciones y arreglos de registros para planillas, clientes, puntos y jugadores. |
 | `ExParcial/` | Ejercicios tipo parcial, solucionarios y problemas contextualizados de practica para evaluacion. |
 
 Cada archivo `.cpp` contiene un ejercicio independiente o una demostracion
